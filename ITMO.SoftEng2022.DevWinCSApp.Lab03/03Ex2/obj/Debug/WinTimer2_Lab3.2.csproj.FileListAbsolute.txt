@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Практика_Win_CS\ITMO.SoftEng2022.DevWinCSApp.Lab3Ex2 - new\WinTimer2_Lab3.2\bin\Debug\WinTimer2_Lab3.2.exe.config
+C:\Users\Admin\Desktop\Практика_Win_CS\ITMO.SoftEng2022.DevWinCSApp.Lab3Ex2 - new\WinTimer2_Lab3.2\bin\Debug\WinTimer2_Lab3.2.exe
+C:\Users\Admin\Desktop\Практика_Win_CS\ITMO.SoftEng2022.DevWinCSApp.Lab3Ex2 - new\WinTimer2_Lab3.2\bin\Debug\WinTimer2_Lab3.2.pdb
+C:\Users\Admin\Desktop\Практика_Win_CS\ITMO.SoftEng2022.DevWinCSApp.Lab3Ex2 - new\WinTimer2_Lab3.2\obj\Debug\WinTimer2_Lab3.2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Практика_Win_CS\ITMO.SoftEng2022.DevWinCSApp.Lab3Ex2 - new\WinTimer2_Lab3.2\obj\Debug\WinTimer2_Lab3.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Практика_Win_CS\ITMO.SoftEng2022.DevWinCSApp.Lab3Ex2 - new\WinTimer2_Lab3.2\obj\Debug\WinTimer2_Lab3._2.Properties.Resources.resources
+C:\Users\Admin\Desktop\Практика_Win_CS\ITMO.SoftEng2022.DevWinCSApp.Lab3Ex2 - new\WinTimer2_Lab3.2\obj\Debug\WinTimer2_Lab3.2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Практика_Win_CS\ITMO.SoftEng2022.DevWinCSApp.Lab3Ex2 - new\WinTimer2_Lab3.2\obj\Debug\WinTimer2_Lab3.2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Практика_Win_CS\ITMO.SoftEng2022.DevWinCSApp.Lab3Ex2 - new\WinTimer2_Lab3.2\obj\Debug\WinTimer2_Lab3.2.exe
+C:\Users\Admin\Desktop\Практика_Win_CS\ITMO.SoftEng2022.DevWinCSApp.Lab3Ex2 - new\WinTimer2_Lab3.2\obj\Debug\WinTimer2_Lab3.2.pdb
+C:\Users\Admin\Desktop\Практика_Win_CS\ITMO.SoftEng2022.DevWinCSApp.Lab3Ex2 - new\WinTimer2_Lab3.2\obj\Debug\WinTimer2_Lab3._2.UserControlTimer2.resources
+C:\Users\Admin\Desktop\Практика_Win_CS\ITMO.SoftEng2022.DevWinCSApp.Lab3Ex2 - new\WinTimer2_Lab3.2\obj\Debug\WinTimer2_Lab3._2.Form1.resources
