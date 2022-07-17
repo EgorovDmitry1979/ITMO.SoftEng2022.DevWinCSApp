@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAnim_Lab5.3", "WinAnim_Lab5.3.csproj", "{2000A1CA-5BDB-4B6C-A7AA-44C1BA03F88E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2000A1CA-5BDB-4B6C-A7AA-44C1BA03F88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2000A1CA-5BDB-4B6C-A7AA-44C1BA03F88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2000A1CA-5BDB-4B6C-A7AA-44C1BA03F88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2000A1CA-5BDB-4B6C-A7AA-44C1BA03F88E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6F40807-C51A-4E4E-AD1D-D031D060AD86}
+	EndGlobalSection
+EndGlobal
